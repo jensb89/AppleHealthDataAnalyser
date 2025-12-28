@@ -1,6 +1,13 @@
 
 # Apple Health Data Analyser
 
+A collection of useful status badges for quick project overview.
+
+[![Last Commit](https://img.shields.io/github/last-commit/jensb89/AppleHealthDataAnalyser)](https://github.com/jensb89/AppleHealthDataAnalyser/commits/main)
+[![Issues](https://img.shields.io/github/issues/jensb89/AppleHealthDataAnalyser)](https://github.com/jensb89/AppleHealthDataAnalyser/issues)
+[![Top language](https://img.shields.io/github/languages/top/jensb89/AppleHealthDataAnalyser)](https://github.com/jensb89/AppleHealthDataAnalyser)
+[![Code size](https://img.shields.io/github/languages/code-size/jensb89/AppleHealthDataAnalyser)](https://github.com/jensb89/AppleHealthDataAnalyser)
+
 A Python application for analyzing and visualizing health data exported from Apple Health.
 
 ## Overview
